@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="timg_car" size="500.000000 232.267731" />
+    <ImageTarget name="timg" size="500.000000 500.000000" />
+    <ImageTarget name="leaves_5star_contrast" size="500.000000 500.000000" />
+    <ImageTarget name="pic" size="500.000000 585.062256" />
+  </Tracking>
+</QCARConfig>
